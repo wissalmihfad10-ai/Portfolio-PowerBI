@@ -38,13 +38,29 @@ Déploiement d'une solution décisionnelle (BI) complète sur Power BI pour cent
 
 ### 📦 Fichiers du projet
 * Rapport Power BI : `Projet-2-GlobalTech/GlobalTech.pbix`
+* Données brutes : `Projet-2-GlobalTech/DimAgents.csv` , `Projet-2-GlobalTech/DimClients.csv` , `Projet-2-GlobalTech/customer_support_tickets`
 * Documentation cadrage : `Projet-2-GlobalTech/GlobalTech.pdf`
 
 ---
 
-## 📁 Projet 3 : [Nom du Projet 3]
-*(À venir)*
+## 📁 Projet 3 : BioSphere Analytics — Distribution Botanique & E-commerce
 
+### 🎯 Objectif métier
+Déploiement d'une solution décisionnelle complète sur Power BI pour un réseau de distribution internationale de produits botaniques (E-commerce & Retail). L'objectif est de s'affranchir des rapports statiques (Excel) et d'apporter une vision à 360° articulée autour de trois piliers majeurs :
+* **Performance commerciale :** Suivi dynamique du CA (75k€+), analyse de la saisonnalité des ventes et identification des produits leaders.
+* **Optimisation Supply Chain :** Suivi opérationnel des expéditions et des volumes vendus (1 500+ unités).
+* **Analyse du portefeuille clients :** Suivi de l'engagement des membres inscrits (200 clients) et ciblage des clients actifs (188 clients).
+
+### 🛠️ Compétences techniques & Réalisations
+* **Préparation des données (Power Query) :** Centralisation, nettoyage et structuration des données transactionnelles et clients.
+* **Modélisation de données :** Conception d'un modèle optimisé reliant les flux de ventes, produits et clients.
+* **UX/UI & Ergonomie :** Création d'un portail de navigation unifié (page d'accueil interactive) permettant un accès fluide aux différents axes d'analyse.
+* **Calculs DAX :** Élaboration des indicateurs de santé globale (CA, unités vendues, taux d'activité client).
+
+### 📦 Fichiers du projet
+* Rapport Power BI : `Projet-3-BioSphere/PBI BioSphere.pbix`
+* Données brutes : `Projet-3-BioSphere/04_01_ventes.xlsx`
+* Documentation complète : `Projet-3-BioSphere/BioSphere Analytics Doc.pdf`
 ---
 
 👨‍💻 **Réalisé par :** Wissal Mihfad — *Data Analyst*
