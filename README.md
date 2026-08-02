@@ -17,9 +17,9 @@ Analyse de l'activité de crédit immobilier pour le réseau B-Finances afin de 
 * **Restitution visuelle :** Conception d'un tableau de bord décisionnel clair et interactif.
 
 ### 📦 Fichiers du projet
-* Rapport Power BI : `PBI B-Finances.pbix`
-* Données brutes : `DataCB.xlsx`
-* Documentation complète : `B-Finances Doc.pdf`
+* Rapport Power BI : `Projet-1-BioSphere/PBI B-Finances.pbix`
+* Données brutes : `Projet-1-BioSphere/DataCB.xlsx`
+* Documentation complète : `Projet-1-BioSphere/B-Finances Doc.pdf`
 
 ---
 ## 📁 Projet 2 : Customer Support Analytics — GlobalTech
@@ -37,13 +37,14 @@ Déploiement d'une solution décisionnelle (BI) complète sur Power BI pour cent
 * **Restitution visuelle :** Création d'un rapport unifié structuré autour de **trois tableaux de bord dédiés**.
 
 ### 📦 Fichiers du projet
-* Rapport Power BI : `Projet-2-GlobalTech/GlobalTech.pbix`
+* Rapport Power BI : `Projet-2-GlobalTech/PBI GlobalTech.pbix`
 * Données brutes : `Projet-2-GlobalTech/DimAgents.csv` , `Projet-2-GlobalTech/DimClients.csv` , `Projet-2-GlobalTech/customer_support_tickets`
-* Documentation cadrage : `Projet-2-GlobalTech/GlobalTech.pdf`
+* Documentation cadrage : `Projet-2-GlobalTech/GlobalTech Doc.pdf`
 
 ---
 
 ## 📁 Projet 3 : BioSphere Analytics — Distribution Botanique & E-commerce
+**Tableau de bord décisionnel : Suivi opérationnel & stratégique (2023 - 2024)**
 
 ### 🎯 Objectif métier
 Déploiement d'une solution décisionnelle complète sur Power BI pour un réseau de distribution internationale de produits botaniques (E-commerce & Retail). L'objectif est de s'affranchir des rapports statiques (Excel) et d'apporter une vision à 360° articulée autour de trois piliers majeurs :
