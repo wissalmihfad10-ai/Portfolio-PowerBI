@@ -23,7 +23,7 @@ Analyse de l'activité de crédit immobilier pour le réseau B-Finances afin de 
 
 ---
 ## 📁 Projet 2 : Customer Support Analytics — GlobalTech
-**Rapport d'analyse BI : Performance du support & expérience client**
+**Performance du support & expérience client**
 
 ### 🎯 Objectif métier
 Déploiement d'une solution décisionnelle (BI) complète sur Power BI pour centraliser et analyser les flux de tickets du service support. L'objectif est de transformer des données transactionnelles cloisonnées en leviers d'action :
@@ -44,7 +44,7 @@ Déploiement d'une solution décisionnelle (BI) complète sur Power BI pour cent
 ---
 
 ## 📁 Projet 3 : BioSphere Analytics — Distribution Botanique & E-commerce
-**Tableau de bord décisionnel : Suivi opérationnel & stratégique (2023 - 2024)**
+**Suivi opérationnel & stratégique (2023 - 2024)**
 
 ### 🎯 Objectif métier
 Déploiement d'une solution décisionnelle complète sur Power BI pour un réseau de distribution internationale de produits botaniques (E-commerce & Retail). L'objectif est de s'affranchir des rapports statiques (Excel) et d'apporter une vision à 360° articulée autour de trois piliers majeurs :
