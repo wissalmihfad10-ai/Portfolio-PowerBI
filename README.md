@@ -22,9 +22,23 @@ Analyse de l'activité de crédit immobilier pour le réseau B-Finances afin de 
 * Documentation complète : `B-Finances Doc.pdf`
 
 ---
+## 📁 Projet 2 : Customer Support Analytics — GlobalTech
+**Rapport d'analyse BI : Performance du support & expérience client**
 
-## 📁 Projet 2 : [Nom du Projet 2]
-*(À venir)*
+### 🎯 Objectif métier
+Déploiement d'une solution décisionnelle (BI) complète sur Power BI pour centraliser et analyser les flux de tickets du service support. L'objectif est de transformer des données transactionnelles cloisonnées en leviers d'action :
+* **Pilotage macro-économique :** Vision consolidée des volumes de demandes et anticipation des pics d'activité.
+* **Optimisation opérationnelle :** Évaluation de la performance des agents (délais de réponse, taux de résolution) pour ajuster la charge de travail.
+* **Analyse comportementale client :** Mesure de la satisfaction (CSAT) et de la récurrence selon les produits et canaux.
+
+### 🛠️ Compétences techniques & Réalisations
+* **Préparation des données (Power Query) :** Connexion, nettoyage et transformation du jeu de données *Customer Support Ticket Dataset* (Kaggle).
+* **Modélisation de données :** Structuration d'un modèle relationnel optimisé pour l'analyse décisionnelle.
+* **Restitution visuelle :** Création d'un rapport unifié structuré autour de **trois tableaux de bord dédiés**.
+
+### 📦 Fichiers du projet
+* Rapport Power BI : `Projet-2-GlobalTech/GlobalTech.pbix`
+* Documentation cadrage : `Projet-2-GlobalTech/GlobalTech.pdf`
 
 ---
 
