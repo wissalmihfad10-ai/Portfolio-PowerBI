@@ -1,7 +1,15 @@
-# Portfolio Power BI
+# Projet 1 : B-Finances (analyse de prêts bancaires)
 
-## Projet 1 : B-Finances (analyse de prêts bancaires)
-[![Accueil B-Finances](Projet-1-B-Finances/Images/page1-accueil.png)](Projet-1-B-Finances)
-<img src="page1-accueil.png" width="800" alt="Page d'accueil du dashboard B-Finances">
+## Aperçu du dashboard
 
-[Voir le projet complet](Projet-1-B-Finances)
+### Page 1 : Accueil
+![Page d'accueil du dashboard B-Finances](Images/page1-accueil.png)
+
+### Page 2 : Demandes de prêt
+![Demandes de prêt](Images/page2-demandes-de-pret.png)
+
+### Page 3 : Performance des agences
+![Performance des agences](Images/page3-performance-agence.png)
+
+### Page 4 : Analyse des risques
+![Analyse des risques](Images/page4-analyse-des-risques.png)
