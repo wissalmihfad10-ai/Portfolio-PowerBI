@@ -24,16 +24,16 @@ La direction disposait de rapports macroéconomiques figés d'un côté et de re
 
 ## 📌 Aperçu du dashboard
 
-### 🏠 Accueil
+### Accueil
 ![Accueil](Images/page1-accueil.png)
 
-### 📄 Demandes de prêt
+### Demandes de prêt
 ![Demandes de prêt](Images/page2-demandes-de-pret.png)
 
-### 🏢 Performance des agences
+### Performance des agences
 ![Performance des agences](Images/page3-performance-agence.png)
 
-### ⚠️ Analyse des risques
+### Analyse des risques
 ![Analyse des risques](Images/page4-analyse-des-risques.png)
 
 ## 💡 Principaux constats
@@ -53,8 +53,8 @@ Le rapport détaillé (modèle, dictionnaire des mesures DAX, analyse page par p
 👉 [Rapport d'activité (PDF)](B-Finances%20Doc.pdf)
 
 ## 📁 Fichiers
-- 📈 [Rapport Power BI (.pbix)](PBI%20B-Finances.pbix)
-- 🗂️ [Données (Excel)](DataCB.xlsx)
+- [Rapport Power BI (.pbix)](PBI%20B-Finances.pbix)
+- [Données (Excel)](DataCB.xlsx)
 
 ## 🧰 Outils
 Power BI Desktop · DAX · Power Query · Excel
