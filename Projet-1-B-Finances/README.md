@@ -2,7 +2,7 @@
 
 Dashboard Power BI de pilotage de l'activité de prêts immobiliers d'une banque régionale bretonne : suivi des demandes, performance des agences et analyse des risques.
 
-> 📚 **Projet d'apprentissage** réalisé pour consolider mes compétences Power BI (Power Query, modélisation, DAX, design de rapports). Les données et le cas d'usage proviennent du dépôt open source [Sora3361/dashboard-credit-breton-powerbi](https://github.com/Sora3361/dashboard-credit-breton-powerbi). Le modèle, les mesures DAX, les pages et l'analyse sont mon travail.
+> 📚 **Projet d'apprentissage** réalisé pour consolider mes compétences Power BI (Power Query, modélisation, DAX, design de rapports). Les données et le cas d'usage proviennent du dépôt open source [Sora3361/dashboard-credit-breton-powerbi](https://github.com/Sora3361/dashboard-credit-breton-powerbi). 
 
 ## 🎯 Contexte et objectifs
 La direction disposait de rapports macroéconomiques figés d'un côté et de registres de dossiers de l'autre, sans lien entre les deux. Le dashboard répond à trois objectifs :
