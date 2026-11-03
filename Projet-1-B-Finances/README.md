@@ -15,14 +15,14 @@ La direction disposait de rapports macroéconomiques figés d'un côté et de re
 - ✅ Taux d'acceptation global : 77 %
 - 🚨 Taux de vigilance : 14 % · Montant en risque : 3 M€
 
-## 🛠️ Ce que j'ai réalisé
+## 🖇️ Ce que j'ai réalisé
 - **Power Query** : nettoyage des données, fusion de la table Apport dans la table de faits (jointure externe gauche).
 - **Modèle en étoile** : 1 table de faits (Demandes de prêt), 3 dimensions (Agences, Clients, Calendrier) et une table dédiée aux mesures.
 - **7 mesures DAX** : Nombre de demandes, Montant prêté, Taux d'acceptation, Montant en risque, Taux de vigilance, Montant moyen agence, Demandes moyennes agence (avec CALCULATE, DIVIDE, AVERAGEX et ALL).
 - **Colonnes calculées** : score emprunteur (règles : âge, régularité des revenus, taux d'endettement > 35 %), niveau de risque, tranches d'âge.
 - **Rapport de 5 pages** : 3 pages d'analyse, navigation par boutons, filtres dynamiques et 2 pages de drill-through.
 
-## 🖼️ Aperçu du dashboard
+## 📌 Aperçu du dashboard
 
 ### 🏠 Accueil
 ![Accueil](Images/page1-accueil.png)
