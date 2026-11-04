@@ -20,7 +20,7 @@ Piloter l'activité de crédit immobilier d'un réseau bancaire régional : suiv
 * **DAX** : taux d'acceptation, montant prêté, montant en risque, taux de vigilance, scoring emprunteur.
 * **Restitution** : rapport de 5 pages avec navigation, filtres dynamiques et drill-through.
 
-📚 *Projet d'apprentissage basé sur le cas d'étude « Crédit Breton » du cours OpenClassrooms [« Réalisez des dashboards avec Power BI »](https://openclassrooms.com/fr/courses/7110891-realisez-des-dashboards-avec-power-bi).*
+📚 *Projet de montée en compétences basé sur le cas d'étude « Crédit Breton » du cours OpenClassrooms [« Réalisez des dashboards avec Power BI »](https://openclassrooms.com/fr/courses/7110891-realisez-des-dashboards-avec-power-bi).*
 
 👉 [Voir le projet](Projet-1-B-Finances) · 📘 [Rapport PDF](Projet-1-B-Finances/BFinancesDoc.pdf) · 📈 [Fichier .pbix](Projet-1-B-Finances/RapportBFinances.pbix)
 
