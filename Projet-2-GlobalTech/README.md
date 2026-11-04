@@ -27,7 +27,7 @@ La direction manquait de visibilité sur l'efficacité du support : les données
 ## 📌 Aperçu du dashboard
 
 ### Page 1 : Vue d'ensemble
-![Vue d'ensemble](Images/page1-vue-ensemble.png)
+![Vue d'ensemble](Images/page1-vue-densemble.png)
 
 ### Page 2 : Performance équipe
 ![Performance équipe](Images/page2-performance-equipe.png)
