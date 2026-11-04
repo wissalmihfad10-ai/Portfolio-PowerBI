@@ -10,7 +10,7 @@ La direction souhaitait sortir des rapports statiques Excel pour disposer d'un p
 2. **Performance supply chain** : mesurer les volumes expédiés, le nombre de commandes et la répartition entre fournisseurs.
 3. **Portefeuille clients** : suivre l'activité, le panier moyen et la répartition géographique du chiffre d'affaires.
 
-## 🔍 Problématique Métier
+## 🔍 Problématique métier
 Dans un marché international de distribution botanique (E-commerce B2C et Retail B2B), la direction de **BioSphere Analytics** faisait face à une limite critique : l'exploitation de rapports statiques (Excel) qui cloisonnait les données et empêchait un pilotage décisionnel fluide et en temps réel.
 
 Face à cet enjeu de transformation data-driven, la problématique centrale à résoudre était la suivante :
