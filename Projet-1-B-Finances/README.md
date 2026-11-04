@@ -53,7 +53,7 @@ Le rapport détaillé (modèle, dictionnaire des mesures DAX, analyse page par p
 👉 [Rapport d'activité (PDF)](BFinancesDoc.pdf)
 
 ## 📁 Fichiers
-- [Rapport Power BI (.pbix)](Rapport-Power-BI-B-Finances.pbix)
+- [Rapport Power BI (.pbix)](RapportBFinances.pbix)
 - [Données (Excel)](DataCB.xlsx)
 
 ## 🧰 Outils
