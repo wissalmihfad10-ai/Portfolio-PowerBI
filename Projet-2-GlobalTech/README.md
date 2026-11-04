@@ -49,7 +49,7 @@ La direction manquait de visibilité sur l'efficacité du support : les données
 
 ## 📘 Documentation complète
 Le rapport détaillé (modèle, dictionnaire des mesures DAX, analyse page par page, scénarios d'interaction) est disponible ici :
-👉 [Rapport d'analyse (PDF)](GlobalTech%20Doc.pdf)
+👉 [Rapport d'analyse (PDF)](GlobalTechDoc.pdf)
 
 ## 📁 Fichiers
 - [Rapport Power BI (.pbix)](RapportGlobalTech.pbix)
