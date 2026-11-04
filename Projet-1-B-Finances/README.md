@@ -25,7 +25,7 @@ La direction disposait de rapports macroéconomiques figés d'un côté et de re
 ## 📌 Aperçu du dashboard
 
 ### Accueil
-![Accueil](Images/page1-accueil.png)
+![Accueil](Images/page1-Accueil.png)
 
 ### Demandes de prêt
 ![Demandes de prêt](Images/page2-demandes-de-pret.png)
