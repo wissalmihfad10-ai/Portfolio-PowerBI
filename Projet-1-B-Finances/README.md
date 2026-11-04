@@ -24,16 +24,16 @@ La direction disposait de rapports macroéconomiques figés d'un côté et de re
 
 ## 📌 Aperçu du dashboard
 
-### Accueil
+### Page 1 : Accueil
 ![Accueil](Images/page1-Accueil.png)
 
-### Demandes de prêt
+### Page 2 : Demandes de prêt
 ![Demandes de prêt](Images/page2-demandes-de-pret.png)
 
-### Performance des agences
+### Page 3 : Performance des agences
 ![Performance des agences](Images/page3-performance-agence.png)
 
-### Analyse des risques
+### Page 4 : Analyse des risques
 ![Analyse des risques](Images/page4-analyse-des-risques.png)
 
 ## 💡 Principaux constats
