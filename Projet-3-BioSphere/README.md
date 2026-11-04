@@ -16,14 +16,14 @@ La direction souhaitait sortir des rapports statiques Excel pour disposer d'un p
 - 👤 188 clients actifs sur 200 clients enregistrés
 - 🛒 Panier moyen par client : 399 €
 
-## Ce que j'ai réalisé
+## 🖇️ Ce que j'ai réalisé
 - **Power Query** : normalisation des types, nettoyage de la casse et des espaces, masquage des clés techniques dans la vue rapport.
 - **Modèle en étoile** : 1 table de faits (ventes 2023-2024), 4 dimensions (Clients, Produits, Fournisseurs, Calendrier) et une table dédiée aux mesures.
 - **Gestion des dates** : une table Calendrier avec deux relations vers la table de faits, l'une active (date de commande), l'autre inactive (date de livraison).
 - **10 mesures DAX** : CA, Quantité vendue, Nombre de commandes, Clients actifs, Clients enregistrés, Moyenne mensuelle, Panier moyen par client, Panier min, Panier max et Écart de panier (avec SUMX, AVERAGEX, MAXX, MINX, DISTINCTCOUNT et KEEPFILTERS).
 - **Rapport de 4 pages** : accueil de navigation, 3 pages d'analyse, filtres par pays et par année, interactions croisées paramétrées.
 
-## Aperçu du dashboard
+## 📌 Aperçu du dashboard
 
 ### Page 1 : Accueil
 ![Accueil](Images/page1-accueil.png)
