@@ -10,7 +10,7 @@ La direction disposait de rapports macroéconomiques figés d'un côté et de re
 2. **Performance commerciale** : comparer les 6 agences (Brest, Lorient, Morlaix, Quimper, Rennes, Saint-Brieuc).
 3. **Maîtrise des risques** : surveiller la politique d'octroi par âge, profession et situation familiale.
 
-## 🔍 Problématique Métier
+## 🔍 Problématique métier
 
 La direction de **B-Finances** faisait initialement face à un **cloisonnement critique de ses données d'octroi de crédits immobiliers**. D'un côté, les équipes disposaient de rapports macroéconomiques figés ; de l'autre, de registres de dossiers purement comptables, sans aucune passerelle dynamique entre les deux.
 
