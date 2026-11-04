@@ -10,6 +10,17 @@ La direction souhaitait sortir des rapports statiques Excel pour disposer d'un p
 2. **Performance supply chain** : mesurer les volumes expédiés, le nombre de commandes et la répartition entre fournisseurs.
 3. **Portefeuille clients** : suivre l'activité, le panier moyen et la répartition géographique du chiffre d'affaires.
 
+## 🔍 Problématique Métier
+Dans un marché international de distribution botanique (E-commerce B2C et Retail B2B), la direction de **BioSphere Analytics** faisait face à une limite critique : l'exploitation de rapports statiques (Excel) qui cloisonnait les données et empêchait un pilotage décisionnel fluide et en temps réel.
+
+Face à cet enjeu de transformation data-driven, la problématique centrale à résoudre était la suivante :
+> **Comment centraliser, unifier et analyser dynamiquement l'écosystème de données pour piloter la croissance commerciale, optimiser les flux logistiques internationaux et maximiser la valeur du portefeuille clients ?**
+
+Pour répondre à ce défi, la solution décisionnelle a été conçue autour de 3 axes stratégiques :
+1. **Pilotage de la performance commerciale :** Assurer le suivi dynamique du chiffre d'affaires, analyser les cycles de saisonnalité (pics d'activité et périodes creuses) et identifier la contribution des familles botaniques leaders dans la génération de valeur.
+2. **Optimisation de la Supply Chain :** Piloter les volumes d'expédition (unités et commandes), lisser la charge de travail mensuelle et évaluer la dépendance vis-à-vis des partenaires d'approvisionnement par marché de destination.
+3. **Analyse et segmentation du portefeuille clients :** Mesurer le niveau d'engagement de la base (clients actifs vs inscrits), suivre l'évolution des paniers moyens et identifier la dispersion des achats ainsi que la contribution des marchés géographiques clés (comme la Chine ou la Suède).
+
 ## 📊 Chiffres clés
 - 📦 1 536 unités vendues · 🧾 522 commandes · 🏭 20 fournisseurs
 - 💶 75 095 € de chiffre d'affaires
