@@ -10,7 +10,7 @@ La direction manquait de visibilité sur l'efficacité du support : les données
 2. **Performance opérationnelle** : mesurer les délais, le taux de résolution et la satisfaction par équipe et par niveau d'ancienneté.
 3. **Comportement client** : analyser la satisfaction et la récurrence selon l'âge, le genre, le produit et la priorité.
 
-## 🔍 Problématique Métier
+## 🔍 Problématique métier
 
 Dans un marché concurrentiel, le service support de **Global Tech** génère quotidiennement un volume massif de données transactionnelles issues des tickets d'assistance. Jusqu'à présent, ces données restaient cloisonnées ou exploitées de manière statique, empêchant une lecture globale et fluide des performances opérationnelles et de l'expérience client.
 
