@@ -10,6 +10,18 @@ La direction manquait de visibilité sur l'efficacité du support : les données
 2. **Performance opérationnelle** : mesurer les délais, le taux de résolution et la satisfaction par équipe et par niveau d'ancienneté.
 3. **Comportement client** : analyser la satisfaction et la récurrence selon l'âge, le genre, le produit et la priorité.
 
+## 🔍 Problématique Métier
+
+Dans un marché concurrentiel, le service support de **Global Tech** génère quotidiennement un volume massif de données transactionnelles issues des tickets d'assistance[cite: 30]. Jusqu'à présent, ces données restaient cloisonnées ou exploitées de manière statique, empêchant une lecture globale et fluide des performances opérationnelles et de l'expérience client[cite: 30].
+
+Face à cet enjeu de gouvernance et de pilotage, la problématique centrale à résoudre était la suivante : 
+> **Comment centraliser et analyser dynamiquement le cycle de vie des tickets d'assistance pour concilier optimisation de la charge opérationnelle des agents, respect des objectifs de résolution et amélioration continue de la satisfaction client ?**
+
+Pour répondre à ce défi, la solution décisionnelle a été conçue autour de 3 axes stratégiques :
+1. **Pilotage macro-économique :** Obtenir une vision consolidée des volumes de demandes pour anticiper la saisonnalité et identifier les produits les plus générateurs d'incidents[cite: 30].
+2. **Optimisation opérationnelle :** Évaluer l'efficacité des équipes (délais de réponse, taux de résolution face à l'objectif de 50%, et répartition par ancienneté) afin d'ajuster la charge de travail et cibler les besoins d'accompagnement[cite: 30, 41].
+3. **Analyse de l'expérience et du comportement client :** Mesurer la satisfaction (CSAT), la récurrence des pannes et les frictions selon les segments démographiques (âge, genre) et les niveaux de criticité des requêtes[cite: 30, 44].
+
 ## 📊 Chiffres clés
 - 🎫 8 469 tickets · 👤 7 898 clients uniques (2020 à 2021)
 - ✅ Taux de résolution : 33 % (objectif fixé à 50 %)
