@@ -52,7 +52,7 @@ Le rapport détaillé (modèle, dictionnaire des mesures DAX, analyse page par p
 👉 [Rapport d'analyse (PDF)](GlobalTech%20Doc.pdf)
 
 ## 📁 Fichiers
-- [Rapport Power BI (.pbix)](PBI%20GlobalTech.pbix)
+- [Rapport Power BI (.pbix)](RapportGlobalTech.pbix)
 - [Tickets de support (CSV)](customer_support_tickets.csv)
 - [Clients (CSV)](DimClients.csv)
 - [Agents (CSV)](DimAgents.csv)
