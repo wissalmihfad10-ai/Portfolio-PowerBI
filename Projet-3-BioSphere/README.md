@@ -2,7 +2,7 @@
 
 Dashboard Power BI de suivi d'une activité internationale de distribution de produits botaniques (E-commerce et Retail) : performance commerciale, supply chain et portefeuille clients (2023 à 2024).
 
-> > 📚 **Projet d'apprentissage** réalisé pour consolider mes compétences Power BI. Le jeu de données d'entraînement provient du cours LinkedIn Learning [« L'essentiel de Power BI »](LIEN_DU_COURS). 
+> 📚 **Projet d'apprentissage** réalisé pour consolider mes compétences Power BI. Le jeu de données d'entraînement provient du cours LinkedIn Learning [« L'essentiel de Power BI »](https://www.linkedin.com/learning/l-essentiel-de-power-bi-2024).
 
 ## 🎯 Contexte et objectifs
 La direction souhaitait sortir des rapports statiques Excel pour disposer d'un pilotage centralisé et interactif. Le dashboard s'articule autour de trois piliers :
