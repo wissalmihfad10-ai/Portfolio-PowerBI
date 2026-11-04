@@ -12,16 +12,16 @@ La direction disposait de rapports macroéconomiques figés d'un côté et de re
 
 ## 🔍 Problématique Métier
 
-La direction de **B-Finances** faisait initialement face à un **cloisonnement critique de ses données d'octroi de crédits immobiliers**[cite: 4]. D'un côté, les équipes disposaient de rapports macroéconomiques figés ; de l'autre, de registres de dossiers purement comptables, sans aucune passerelle dynamique entre les deux[cite: 4].
+La direction de **B-Finances** faisait initialement face à un **cloisonnement critique de ses données d'octroi de crédits immobiliers**. D'un côté, les équipes disposaient de rapports macroéconomiques figés ; de l'autre, de registres de dossiers purement comptables, sans aucune passerelle dynamique entre les deux.
 
 Face à cet enjeu de gouvernance, la problématique centrale à résoudre était la suivante : 
 > **Comment centraliser, auditer et piloter dynamiquement l'activité de prêts immobiliers sur l'ensemble du réseau régional pour concilier croissance commerciale, transparence opérationnelle et maîtrise rigoureuse des risques de crédit ?**
 
 Pour répondre à ce défi, la solution décisionnelle a été conçue autour de 3 axes stratégiques :
-1. **Transparence opérationnelle :** Offrir une vision globale des volumes tout en permettant une granularité unitaire (Drill-through) pour auditer finement chaque profil d'emprunteur[cite: 4].
-2. **Pilotage de la performance territoriale :** Suivre et comparer l'activité des agences physiques bretonnes (Brest, Lorient, Morlaix, Quimper, Rennes, Saint-Brieuc) face aux moyennes du réseau[cite: 4, 12].
-3. **Maîtrise des risques et de l'octroi :** Surveiller les critères de vigilance (taux d'endettement, stabilité des revenus, profils d'âge et CSP) afin d'identifier les poches de vulnérabilité financière (comme l'exposition sur les tranches de 50 ans ou les profils d'intérim)[cite: 4, 18, 20, 23].
-
+1. **Transparence opérationnelle :** Offrir une vision globale des volumes tout en permettant une granularité unitaire (Drill-through) pour auditer finement chaque profil d'emprunteur.
+2. **Pilotage de la performance territoriale :** Suivre et comparer l'activité des agences physiques bretonnes (Brest, Lorient, Morlaix, Quimper, Rennes, Saint-Brieuc) face aux moyennes du réseau.
+3. **Maîtrise des risques et de l'octroi :** Surveiller les critères de vigilance (taux d'endettement, stabilité des revenus, profils d'âge et CSP) afin d'identifier les poches de vulnérabilité financière (comme l'exposition sur les tranches de 50 ans ou les profils d'intérim).
+   
 ## 📊 Chiffres clés
 - 👥 92 clients · 📄 200 demandes de prêt · 💶 17 M€ prêtés (2018 à 2021)
 - ✅ Taux d'acceptation global : 77 %
