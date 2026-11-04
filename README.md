@@ -2,9 +2,7 @@
 
 Data Analyst & Business Analyst certifiée Microsoft Power BI (PL-300). Ce dépôt rassemble trois projets pratiques : de la préparation des données (Power Query) à la modélisation, aux mesures DAX et à la restitution en tableaux de bord interactifs.
 
-📩 wissalmihfad10@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/wissal-m-b23928261)
-
-Chaque projet contient un README détaillé, des captures du dashboard, le fichier .pbix et un rapport PDF.
+Chaque projet contient un README détaillé, des captures du dashboard, les données sources, le fichier .pbix et un rapport PDF.
 
 ---
 
