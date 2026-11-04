@@ -50,10 +50,10 @@ La direction disposait de rapports macroéconomiques figés d'un côté et de re
 
 ## 📘 Documentation complète
 Le rapport détaillé (modèle, dictionnaire des mesures DAX, analyse page par page, scénarios d'utilisation, perspectives) est disponible ici :
-👉 [Rapport d'activité (PDF)](B-Finances%20Doc.pdf)
+👉 [Rapport d'activité (PDF)](B-Finances-Doc.pdf)
 
 ## 📁 Fichiers
-- [Rapport Power BI (.pbix)](PBI%20B-Finances.pbix)
+- [Rapport Power BI (.pbix)](Rapport-Power-BI-B-Finances.pbix)
 - [Données (Excel)](DataCB.xlsx)
 
 ## 🧰 Outils
