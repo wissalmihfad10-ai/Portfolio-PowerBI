@@ -1,4 +1,4 @@
-# 🎧 Projet 2 : GlobalTech, dashboard de performance du support client
+# Projet 2 : GlobalTech, dashboard de performance du support client
 
 Dashboard Power BI de pilotage du service support : volume et priorité des tickets, performance des équipes et analyse du comportement des clients (2020 à 2021).
 
@@ -17,14 +17,14 @@ La direction manquait de visibilité sur l'efficacité du support : les données
 - ⏱️ Délai moyen de première réponse : 12 h
 - 🔁 Taux de récurrence client : 6 %
 
-## Ce que j'ai réalisé
+## 🖇️ Ce que j'ai réalisé
 - **Power Query** : connexion et préparation des tables sources (tickets, clients, agents).
 - **Modèle en étoile** : 1 table de faits (Tickets), 4 tables de dimensions (Clients, Agents, Calendrier, RefPriorités) et une table dédiée aux mesures.
 - **9 mesures DAX** : Total Tickets, Tickets Résolus, Taux de Résolution, Tickets par Agent, Délai Réponse Moyen, Satisfaction Moyenne, Clients Uniques, Taux de Récurrence Client et Objectif Résolution (avec CALCULATE, DIVIDE, AVERAGEX, FILTER et des variables).
 - **Colonnes calculées** : tranche d'âge des clients et table de référence pour trier logiquement les priorités.
 - **Rapport de 3 pages** avec filtres, boutons de réinitialisation et filtrage croisé.
 
-## 🖼️ Aperçu du dashboard
+## 📌 Aperçu du dashboard
 
 ### Page 1 : Vue d'ensemble
 ![Vue d'ensemble](Images/page1-vue-ensemble.png)
