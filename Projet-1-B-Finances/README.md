@@ -1,4 +1,4 @@
-# 🏦 Projet 1 : B-Finances, dashboard d'analyse de crédits immobiliers
+# Projet 1 : B-Finances, dashboard d'analyse de crédits immobiliers
 
 Dashboard Power BI de pilotage de l'activité de prêts immobiliers d'une banque régionale bretonne : suivi des demandes, performance des agences et analyse des risques.
 
